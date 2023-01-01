@@ -1,0 +1,5 @@
+MEMBER ID         = 2678137442
+NAMA MEMBER       = abd
+ALAMAT            = we
+TANGGAL           = 12
+NO TELP           = 123
